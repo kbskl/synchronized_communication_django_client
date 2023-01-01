@@ -20,7 +20,7 @@ This repo contains the server codes with MultipleServerManager which should be o
 ## Usage
 
 You can review the document I described for use.<br>
-[Medium Document](https://tarkkabasakal.medium.com/python-django-ile-channels-kullan%C4%B1m%C4%B1-6797928087b8)
+[Medium Document](https://tarkkabasakal.medium.com/redis-pub-sub-ile-birden-fazla-django-sunucusunda-eş-zamanlı-i̇letişim-kurulması-ab8abf30e7ec)
 
 
 
